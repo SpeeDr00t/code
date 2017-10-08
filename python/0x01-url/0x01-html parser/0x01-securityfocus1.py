@@ -87,4 +87,4 @@ if __name__ == '__main__':
     r.doWork()
 
 
-출처: http://speedr00t.tistory.com/entry/html-parser-class-security-focus-title과-link정보-가져오기 [Black Falcon]
+#출처: http://speedr00t.tistory.com/entry/html-parser-class-security-focus-title과-link정보-가져오기 [Black Falcon]
